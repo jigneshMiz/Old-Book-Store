@@ -1,0 +1,19 @@
+.f{
+
+	position: relative;
+	font-size: 0.900rem !important;
+}
+.det{
+	height: 400px !important; 
+	width:300px; 
+	padding-top: 30px;
+	padding-left: 30px; 
+	margin-top: 8px; 
+	margin-right: 10px;
+	margin-left: 5px;
+}
+hr.sty{
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
